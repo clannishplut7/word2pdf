@@ -1,0 +1,21 @@
+Terms of Service
+
+By using the Word to PDF Converter script ("the Script"), you agree to the following terms and conditions:
+
+    Usage: The Script is provided for personal or commercial use. You may use the Script to convert Microsoft Word documents (.docx) to PDF format.
+
+    Ownership: The Script is owned and maintained by Courtney Mitchell. All rights, including intellectual property rights, are reserved by the owner.
+
+    Disclaimer: The Script is provided "as is" without any warranty of any kind, express or implied. The owner shall not be liable for any damages arising from the use of the Script.
+
+    Modifications: You may modify the Script for your own use, but you may not distribute modified versions of the Script without the owner's consent.
+
+    Updates: The owner may update the Script from time to time. You are encouraged to use the latest version of the Script for optimal performance.
+
+    Support: Limited support may be provided for the Script at the owner's discretion. However, the owner is not obligated to provide support or maintenance.
+
+    Termination: The owner reserves the right to terminate or suspend your access to the Script at any time without prior notice.
+
+    Governing Law: These terms and conditions shall be governed by and construed in accordance with the laws of New South Wales, Australia.
+
+By using the Script, you acknowledge that you have read, understood, and agree to be bound by these terms and conditions.
